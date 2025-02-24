@@ -6,7 +6,17 @@
 <!-- default badges end -->
 # PDF Document API - Access and Modify Custom Document Properties
 
-The code sample below shows how to use the **PdfDocument.CustomProperties** property to access the collection of document's custom properties. You can add and delete custom properties or change associated names or values.
+This sample project uses the [PdfDocument.CustomProperties](https://docs.devexpress.com/OfficeFileAPI/DevExpress.Pdf.PdfDocument.CustomProperties) property to obtain the collection of document's custom properties. You can add and delete custom properties or change associated names or values.
+
+> [!Important]  
+> The Universal Subscription or an additional Office File API Subscription is required to use this example in production code. For pricing information, please refer to the [DevExpress Subscription](https://www.devexpress.com/Subscriptions/) page.
+
+## Files to Review
+
+| C# | Visual Basic |
+|---|---|
+| [Program.cs](./CS/pdf-custom-properties/Program.cs) | [Program.vb](./VB/pdf-custom-properties/Program.vb) |
+
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 

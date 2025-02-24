@@ -17,7 +17,7 @@ namespace pdf_custom_properties
                 pdfProcessor.LoadDocument("PageDeletion.pdf");
                 ModifyCustomProperties(pdfProcessor.Document);
                 pdfProcessor.SaveDocument("Result.pdf");
-                Process.Start("Result.pdf");
+                Process.Start(new ProcessStartInfo("Result.pdf") { UseShellExecute = true });
             }
         }
 

@@ -13,7 +13,7 @@ Namespace pdf_custom_properties
 				pdfProcessor.LoadDocument("PageDeletion.pdf")
 				ModifyCustomProperties(pdfProcessor.Document)
 				pdfProcessor.SaveDocument("Result.pdf")
-				Process.Start("Result.pdf")
+				Process.Start(New ProcessStartInfo("Result.pdf") With {.UseShellExecute = True})
 			End Using
 		End Sub
 
