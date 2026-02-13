@@ -8,7 +8,7 @@
 
 The code sample below shows how to use the **PdfDocument.CustomProperties** property to access the collection of document's custom properties. You can add and delete custom properties or change associated names or values.
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-document-api-custom-properties&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-document-api-custom-properties&~~~was_helpful=no)
 
