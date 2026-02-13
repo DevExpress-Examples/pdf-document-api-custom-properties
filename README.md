@@ -18,7 +18,7 @@ This sample project uses the [PdfDocument.CustomProperties](https://docs.devexpr
 | [Program.cs](./CS/pdf-custom-properties/Program.cs) | [Program.vb](./VB/pdf-custom-properties/Program.vb) |
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-document-api-custom-properties&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-document-api-custom-properties&~~~was_helpful=no)
 
